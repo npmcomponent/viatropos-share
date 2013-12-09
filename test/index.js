@@ -6,6 +6,9 @@ var assert = require('assert');
 
 describe('share', function(){
   it('should test', function(){
-    assert.equal(1 + 1, 2);
+    share.twitter('https://github.com', "Woohoo!");
+    share.pinterest('https://github.com', 'http://octodex.github.com/images/twenty-percent-cooler-octocat.png');
+    share.reddit('https://github.com');
+    share.facebook('https://github.com', "Woohoo!");
   });
 });
