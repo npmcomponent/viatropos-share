@@ -9,7 +9,9 @@
     "viatropos/reddit-share": "*",
     "viatropos/twitter-share": "*",
     "viatropos/facebook-share": "*",
-    "viatropos/pinterest-share": "*"
+    "viatropos/pinterest-share": "*",
+    "viatropos/google-share": "*",
+    "viatropos/linkedin-share": "*"
   },
   "development": {
     "visionmedia/mocha": "*",
