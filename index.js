@@ -1,7 +1,7 @@
 
-exports.reddit = require('reddit-share');
-exports.twitter = require('twitter-share');
-exports.facebook = require('facebook-share');
-exports.pinterest = require('pinterest-share');
-exports.google = require('google-share');
-exports.linkedin = require('linkedin-share');
+exports.reddit = require('viatropos-reddit-share');
+exports.twitter = require('viatropos-twitter-share');
+exports.facebook = require('viatropos-facebook-share');
+exports.pinterest = require('viatropos-pinterest-share');
+exports.google = require('viatropos-google-share');
+exports.linkedin = require('viatropos-linkedin-share');

@@ -1,0 +1,15 @@
+{
+  "name": "viatropos-share",
+  "description": "Share component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "viatropos-reddit-share": "git://github.com/npmcomponent/viatropos-reddit-share.git",
+    "viatropos-twitter-share": "git://github.com/npmcomponent/viatropos-twitter-share.git",
+    "viatropos-facebook-share": "git://github.com/npmcomponent/viatropos-facebook-share.git",
+    "viatropos-pinterest-share": "git://github.com/npmcomponent/viatropos-pinterest-share.git",
+    "viatropos-google-share": "git://github.com/npmcomponent/viatropos-google-share.git",
+    "viatropos-linkedin-share": "git://github.com/npmcomponent/viatropos-linkedin-share.git"
+  },
+  "license": "MIT"
+}
